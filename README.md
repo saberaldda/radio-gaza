@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/logo.svg" alt="Radio Gaza logo" height="100">
+</p>
+
 <h1 align="center">Radio Gaza</h1>
 
 <p align="center">
@@ -9,6 +13,10 @@
   <a href="https://radiogaza.com/"><strong>Production → radiogaza.com</strong></a>
   &nbsp;·&nbsp;
   <a href="https://test.radiogaza.com/">Staging → test.radiogaza.com</a>
+</p>
+
+<p align="center">
+  <img src="docs/banner.svg" alt="Radio Gaza — Web platform and CMS" width="900">
 </p>
 
 ---
